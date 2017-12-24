@@ -5,7 +5,7 @@ https://maven.google.com/android/arch/lifecycle/runtime/1.0.3/runtime-1.0.3.aar
 
 **Requires:**
 - `Android 8.0 (API 26) SDK Platform`
-- [dandar3/android-arch-core-common](https://github.com/dandar3/android-arch-core-common/tree/1.0.3)
+- [dandar3/android-arch-core-common](https://github.com/dandar3/android-arch-core-common/tree/1.0.0)
 - [dandar3/android-arch-lifecycle-common](https://github.com/dandar3/android-arch-lifecycle-common/tree/1.0.3)
 - [dandar3/android-support-annotations](https://github.com/dandar3/android-support-annotations/tree/26.1.0)
 
