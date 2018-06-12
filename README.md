@@ -7,7 +7,7 @@ https://maven.google.com/android/arch/lifecycle/runtime/1.1.1/runtime-1.1.1.aar
 - `Android 8.1 (API 27) SDK Platform`
 - [dandar3/android-arch-core-common](https://github.com/dandar3/android-arch-core-common/tree/1.1.1)
 - [dandar3/android-arch-lifecycle-common](https://github.com/dandar3/android-arch-lifecycle-common/tree/1.1.1)
-- [dandar3/android-support-annotations](https://github.com/dandar3/android-support-annotations/tree/27.1.0)
+- [dandar3/android-support-annotations](https://github.com/dandar3/android-support-annotations/tree/27.1.1)
 
 **References:**
 - https://developer.android.com/topic/libraries/architecture/release-notes.html#march_21_2018
